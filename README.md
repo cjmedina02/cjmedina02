@@ -7,7 +7,7 @@ I use LinkedIn as my primary portfolio to detail my professional experience, aca
 **👉 [View my full project portfolio and professional experience on LinkedIn](https://www.linkedin.com/in/cjmedina02010/)**
 
 ## Technical Focus
-* **Languages:** C, C++, Python, Rust, Verilog, Assembly, Shell
+* **Languages:** C, C++, Python, Assembly, Shell
 * **Tools & Systems:** Linux, Git, Docker, CMake, MPI, OpenMP, CUDA
 
 ## 👟 Connect
